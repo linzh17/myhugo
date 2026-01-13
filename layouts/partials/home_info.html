@@ -1,0 +1,37 @@
+<header class="home-header">
+    <h1 class="home-title">{{ .Site.Params.homeInfoParams.Title }}</h1>
+    <p class="home-subtitle">{{ .Site.Params.homeInfoParams.Content }}</p>
+</header>
+
+<style>
+.home-header {
+    text-align: center;
+    padding: 4rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.home-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--text-color);
+}
+
+.home-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-color-secondary);
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .home-title {
+        font-size: 2rem;
+    }
+    
+    .home-subtitle {
+        font-size: 1rem;
+    }
+}
+</style>

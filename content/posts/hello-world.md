@@ -2,6 +2,9 @@
 title: "Hello World"
 date: 2026-01-11T12:00:00+08:00
 draft: false
+categories: ["技术"]
+tags: ["Hugo", "博客", "Markdown"]
+ShowToc: true
 ---
 
 # 你好，世界！

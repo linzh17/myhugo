@@ -2,20 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/myhugo/tags/2025/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/myhugo/posts/2025-summary/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/categories/</loc>
     <lastmod>2026-01-13T12:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/myhugo/posts/</loc>
     <lastmod>2026-01-13T12:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/myhugo/tags/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/myhugo/</loc>
+    <lastmod>2026-01-13T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/categories/%E7%94%9F%E6%B4%BB%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2026-01-13T12:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/myhugo/posts/hello-world/</loc>
     <lastmod>2026-01-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myhugo/categories/</loc>
+    <loc>http://localhost:1313/myhugo/tags/hugo/</loc>
+    <lastmod>2026-01-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myhugo/tags/</loc>
+    <loc>http://localhost:1313/myhugo/tags/markdown/</loc>
+    <lastmod>2026-01-11T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2026-01-11T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-01-11T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/myhugo/search/</loc>
   </url>
 </urlset>

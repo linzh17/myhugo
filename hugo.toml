@@ -3,6 +3,57 @@ languageCode = 'zh-cn'
 title = '我的个人博客'
 theme = 'PaperMod'
 
+# 导航栏配置
+[[menu.main]]
+name = "🔍 搜索"
+url = "search/"
+weight = 1
+
+[[menu.main]]
+name = "📁 分类"
+url = "categories/"
+weight = 2
+
+[[menu.main]]
+name = "🏷️ 标签"
+url = "tags/"
+weight = 3
+
+[[menu.main]]
+name = "📚 归档"
+url = "archives/"
+weight = 4
+
+# 启用主页信息模式
+[params.homeInfoParams]
+    Title = "👋 欢迎来到我的博客"
+    Content = "记录技术学习与生活感悟的地方"
+
+# 搜索功能需要
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
     defaultTheme = "auto" # 自动跟随系统深色模式
-    # 可以在这里添加更多 PaperMod 的配置
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowToc = true  # 全局显示目录
+    TocOpen = true # 目录默认展开
+    
+    # 搜索配置
+    [params.fuseOpts]
+        isCaseSensitive = false
+        shouldSort = true
+        location = 0
+        distance = 1000
+        threshold = 0.4
+        minMatchCharLength = 0
+        keys = ["title", "permalink", "summary", "content"]
+
+# 分类和标签配置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
