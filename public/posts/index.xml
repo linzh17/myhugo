@@ -6,8 +6,64 @@
     <description>Recent content in Posts on 我的个人博客</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 11 Jan 2026 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 12:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/myhugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年总结</title>
+      <link>http://localhost:1313/myhugo/posts/2025-summary/</link>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/myhugo/posts/2025-summary/</guid>
+      <description>&lt;h1 id=&#34;2025年总结&#34;&gt;2025年总结&lt;/h1&gt;
+&lt;h2 id=&#34;回顾与展望&#34;&gt;回顾与展望&lt;/h2&gt;
+&lt;h3 id=&#34;面试&#34;&gt;面试&lt;/h3&gt;
+&lt;p&gt;年初打着试试的心态，投了字节，拼多多，百度，微派的社招面试，面试结果都不理想&lt;/p&gt;
+&lt;p&gt;问题原因&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没有好好写社招简历&lt;/li&gt;
+&lt;li&gt;本身工作项目经历竞争力一般&lt;/li&gt;
+&lt;li&gt;面试还是不够自信&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;生活变化&#34;&gt;生活变化&lt;/h3&gt;
+&lt;p&gt;今年4月份，路过东北烧烤，遇到了油边，第一次拥有了自己的狗，养狗还是给生活带来了很多不一样的变化，周末都得找点出去的地方遛狗&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;我的小狗&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/myhugo/youbian_dog.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;工作感悟&#34;&gt;工作感悟&lt;/h3&gt;
+&lt;p&gt;今年工作上有了新的体会，第一年工作抱着大展手脚的理想化想法，幻想会变成技术大牛，实际工作其实都是基本内容。&lt;/p&gt;
+&lt;p&gt;但观察一位同事，有了新的体会，没有高难度的工作，可以想想如何把平时的工作进行优化，提高效率，不要抱着逃离的心态，以工作内容为出发点，去进行一些自我提升的尝试与学习，而不是想着在工作外做别的东西去提升自己，时间和效率实际上是不允许的。&lt;/p&gt;
+&lt;h2 id=&#34;主要成就&#34;&gt;主要成就&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 技术能力提升&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 项目经验积累&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 个人成长突破&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;经验教训&#34;&gt;经验教训&lt;/h2&gt;
+&lt;h3 id=&#34;成功经验&#34;&gt;成功经验&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;坚持持续学习&lt;/li&gt;
+&lt;li&gt;保持好奇心&lt;/li&gt;
+&lt;li&gt;勇于尝试新事物&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;需要改进&#34;&gt;需要改进&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;时间管理&lt;/li&gt;
+&lt;li&gt;工作生活平衡&lt;/li&gt;
+&lt;li&gt;目标规划&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;2026年计划&#34;&gt;2026年计划&lt;/h2&gt;
+&lt;h3 id=&#34;技术目标&#34;&gt;技术目标&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;深入学习新技术&lt;/li&gt;
+&lt;li&gt;参与开源项目&lt;/li&gt;
+&lt;li&gt;提升架构能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;个人目标&#34;&gt;个人目标&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;培养新爱好&lt;/li&gt;
+&lt;li&gt;加强身体锻炼&lt;/li&gt;
+&lt;li&gt;扩大社交圈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;感谢2025年带给我的所有经历，期待2026年的新挑战和机遇。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/myhugo/posts/hello-world/</link>
